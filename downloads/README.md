@@ -4,6 +4,7 @@
 - [SlipNet-v2.5.3-full-release-arm64-v8a](./SlipNet-v2.5.3-full-release-arm64-v8a)
 - [_zeta_13398](./_zeta_13398)
 - [anki-launcher-25.09-windows](./anki-launcher-25.09-windows)
+- [anki64-25.2.6-anki-25.02.6-windows-qt6](./anki64-25.2.6-anki-25.02.6-windows-qt6)
 - [archive_20260507_102600](./archive_20260507_102600)
 - [index](./index)
 
